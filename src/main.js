@@ -1,3 +1,5 @@
+import './styles.css';
+
 import { pingPong } from './ping-pong';
 
 $(document).ready(function() {
